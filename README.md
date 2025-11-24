@@ -79,7 +79,7 @@
   <tr>
     <!-- Left stats -->
     <td width="37.5%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=trxomv&show_icons=true&theme=blue-green)" height="150" alt="stats graph"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=trxomv&show_icons=true&theme=blue-green" height="150" alt="stats graph"/>
     </td>
     <!-- Right streak -->
     <td width="40%" align="right">
