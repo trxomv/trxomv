@@ -65,8 +65,7 @@
 <p>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</p>
 
   <!-- Recently Played -->
-  <img
-    src="https://open.spotify.com/user/31cth4ofupf2ewoczrcipxjzn2ji">
+  <img src="https://open.spotify.com/user/31cth4ofupf2ewoczrcipxjzn2ji">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cth4ofupf2ewoczrcipxjzn2ji&amp;theme=radical&amp;now_playing=0&amp;duration=1&amp;footer=wave&amp;bg_color=141328&amp;artist_color=f37ab9&amp;meta_color=7c9c9f&amp;accent_color=ff428e" width="400" alt="Spotify recently played">
 </div>
 
