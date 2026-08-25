@@ -59,7 +59,7 @@
 </p>
   -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cth4ofupf2ewoczrcipxjzn2ji&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cth4ofupf2ewoczrcipxjzn2ji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cth4ofupf2ewoczrcipxjzn2ji&cover_image=true&theme=novatorem&show_offline=false&background_color=cb728c&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing">
   </a>
 
 <p>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</p>
