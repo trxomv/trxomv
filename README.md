@@ -69,7 +69,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cth4ofupf2ewoczrcipxjzn2ji&amp;theme=radical&amp;duration=1&amp;footer=wave&amp;bg_color=141328&amp;artist_color=f37ab9&amp;meta_color=7c9c9f&amp;accent_color=ff428e;unique=0&amp;album=1" width="400" alt="Spotify recently played"> -->
 
   <a href="https://open.spotify.com/user/31cth4ofupf2ewoczrcipxjzn2ji">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31cth4ofupf2ewoczrcipxjzn2ji&amp;theme=radical&amp;radius=17&amp;footer=wave&amp;bg_color=141325&amp;text_color=d0fff9&amp;artist_color=f37ab9&amp;meta_color=7c9c9f&amp;accent_color=ff428f" alt="Spotify recently played" width="400" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31cth4ofupf2ewoczrcipxjzn2ji&amp;theme=radical&amp;radius=17&amp;now_playing=0&amp;album=1&amp;footer=wave&amp;bg_color=141325&amp;text_color=d0fff9&amp;artist_color=f37ab9&amp;meta_color=7c9c9f&amp;accent_color=ff428f" width="400" alt="Spotify recently played" />
 </a>
 
   </div>
