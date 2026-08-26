@@ -54,10 +54,13 @@
   
   
   <!-- Currently Playing -->
+  <!-- https://spotify-github-profile.kittinanx.com -->
+  
   <!--
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </p>
   -->
+  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cth4ofupf2ewoczrcipxjzn2ji&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cth4ofupf2ewoczrcipxjzn2ji&cover_image=true&theme=novatorem&show_offline=false&background_color=cb728c&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing">
   </a>
@@ -65,6 +68,8 @@
 <p>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</p>
 
   <!-- Recently Played -->
+  <!--  https://spotify-recently-played.jeffreyca.workers.dev -->
+
   <!-- <a href="https://open.spotify.com/user/31cth4ofupf2ewoczrcipxjzn2ji">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cth4ofupf2ewoczrcipxjzn2ji&amp;theme=radical&amp;duration=1&amp;footer=wave&amp;bg_color=141328&amp;artist_color=f37ab9&amp;meta_color=7c9c9f&amp;accent_color=ff428e;unique=0&amp;album=1" width="400" alt="Spotify recently played"> -->
 
